@@ -1,0 +1,11 @@
+# This file ensures the assets/images directory is tracked by Git
+# 
+# Replace this file with actual images:
+# - hero-salon.jpg (recommended size: 800x500px)
+# - about-salon.jpg (recommended size: 600x400px)
+# 
+# Image optimization recommendations:
+# - Use WebP format for better compression
+# - Optimize file sizes (aim for <100KB per image)
+# - Include alt text for accessibility
+# - Consider providing multiple sizes for responsive images
